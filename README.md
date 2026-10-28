@@ -12,12 +12,10 @@
 
 ## About
 
-* 🎓 Computer Science Student
 * 🐍 Python
 * 🐧 Linux
-* 🌐 Networking & Security
-* 🤖 AI / ML
-* 🔐 LLM Security
+* 🤖 C/C++
+* 🔐 CLOSE TO MACHINE
 
 ---
 
