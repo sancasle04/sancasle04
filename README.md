@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=46&pause=2000&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=WEB_SEC +G%2F%2F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=42&pause=2000&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=LOW-LEVEL+SYSTEMS+ENGINEER" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=19&pause=1600&color=00FF41&center=true&vCenter=true&width=900&height=35&lines=NETWORK+SECURITY+%7C+LINUX+%7C+AI+SECURITY" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=19&pause=1600&color=00FF41&center=true&vCenter=true&width=900&height=35&lines=C%2FC%2B%2B+%7C+LINUX+KERNEL+%7C+SYSTEMS+FIRMWARE" />
 
 </div>
 
 ---
 
-## About
+## About Me
 
-* 🐍 Python
-* 🐧 Linux
-* 🤖 C/C++
-* 🔐 CLOSE TO MACHINE
+-  **C / C++** — High-performance systems programming and low-level software architecture
+-  **Linux** — System-level development, kernel subroutines, and OS infrastructure
+- **Systems Firmware** — Low-level code execution and machine interface (pure software, non-embedded)
+- **Python** — Tooling, automation, and system diagnostics
+- **Close to Machine** — Low-latency optimization, memory control, and bare-metal abstractions
 
 ---
 
@@ -35,7 +36,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/alanmjose/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
@@ -45,6 +46,6 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=EXODIA05\&color=00ff41\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=EXODIA05&color=00ff41&style=for-the-badge)
 
 </div>
