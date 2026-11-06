@@ -1,10 +1,134 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 310" width="560" height="310" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,'Courier New',monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjMTI1ZGNkOC0wYTUzLTQ4MDMtYjI4ZS1iYTYzMmIxM2U1OTIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMTCevs7stuu2kaM8j4/2L8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5YTBkMDczMi00YmNlLTRjNmItYmFmNi0yNmIzMGQ4NmJjMmNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoN4UPOcOCi80CwhgnIbk3RQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggLn6EC5iRNDR0PvFb/o4jL4Z8YkzJKYSe7/Ms7F/Zb/KkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOaBBFaeAmmQGi/sJakGQGEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAvoyDYgI0vUD3MgFrVdkcfCfv67WLyRoXUUeN8pQtdmWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBj7Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmMxMjVkY2Q4LTBhNTMtNDgwMy1iMjhlLWJhNjMyYjEzZTU5Mi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjJkYTAzYzViLTM0MzctNDk2Zi1iMTA5LTRhODhkZGJjNzZjY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAufoQLmJE0NHQ+8Vv+jiMvhnxiTMkphJ7v8yzsX9lv8qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg0E435DSkQn0IBnkcfzwBaFuusfxjO0raqmZDr4Hf/gOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggHSugxfxkWvurGhfKWXPTkJHKPlgBx2w7YaPh2rL/vKp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOmNgcrofXemeTB5Q1XRMX2etpbU+hZcEQ58mjq846GkL1pRP9d89zLM8HbAkv8LamSEKynh9KOgiE9k4PJpiIY=</c2pa:manifest></metadata>
-<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="165" x2="435" y1="0" y2="0"><stop offset="0" stop-color="#00F0FF"/><stop offset="1" stop-color="#FF00A0"/></linearGradient>
-<clipPath id="k0"><rect x="165" y="67" width="0" height="22"><animate attributeName="width" values="0;0;243;243;0" keyTimes="0;0.04;0.26;0.92;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="k1"><rect x="165" y="99" width="0" height="22"><animate attributeName="width" values="0;0;216;216;0" keyTimes="0;0.09;0.31;0.92;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="k2"><rect x="165" y="131" width="0" height="22"><animate attributeName="width" values="0;0;175.5;175.5;0" keyTimes="0;0.14;0.36;0.92;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="k3"><rect x="165" y="163" width="0" height="22"><animate attributeName="width" values="0;0;202.5;202.5;0" keyTimes="0;0.19;0.41;0.92;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="k4"><rect x="165" y="195" width="0" height="22"><animate attributeName="width" values="0;0;189;189;0" keyTimes="0;0.24;0.46;0.92;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="k5"><rect x="165" y="227" width="0" height="22"><animate attributeName="width" values="0;0;202.5;202.5;0" keyTimes="0;0.29;0.51;0.92;1" dur="10s" repeatCount="indefinite"/></rect></clipPath><clipPath id="k6"><rect x="165" y="259" width="0" height="22"><animate attributeName="width" values="0;0;229.5;229.5;0" keyTimes="0;0.34;0.56;0.92;1" dur="10s" repeatCount="indefinite"/></rect></clipPath></defs>
-<rect width="560" height="310" rx="10" fill="#0D0221"/>
-<rect x="8" y="14" width="544" height="286" rx="6" fill="none" stroke="#FF00A0" stroke-width="1.5"/>
-<rect x="24" y="4" width="178" height="20" fill="#0D0221"/>
-<text x="32" y="20" font-size="15" textLength="144" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">[ SKILL_MATRIX ]</tspan></text>
-<text x="30" y="82" font-size="15" textLength="108" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#d6e4ff">C           </tspan></text><text x="141" y="82" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">[</tspan></text><text x="165" y="82" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#3a2a6a">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan></text><g clip-path="url(#k0)"><text x="165" y="82" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="url(#g)">██████████████████████████████</tspan></text></g><text x="435" y="82" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">]</tspan></text><text x="459" y="82" font-size="15" textLength="27" lengthAdjust="spacing" xml:space="preserve" opacity="0"><tspan fill="#FCEE0A">90%</tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.26;0.92;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="30" y="114" font-size="15" textLength="108" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#d6e4ff">C++         </tspan></text><text x="141" y="114" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">[</tspan></text><text x="165" y="114" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#3a2a6a">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan></text><g clip-path="url(#k1)"><text x="165" y="114" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="url(#g)">██████████████████████████████</tspan></text></g><text x="435" y="114" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">]</tspan></text><text x="459" y="114" font-size="15" textLength="27" lengthAdjust="spacing" xml:space="preserve" opacity="0"><tspan fill="#FCEE0A">80%</tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.31;0.92;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="30" y="146" font-size="15" textLength="108" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#d6e4ff">Assembly    </tspan></text><text x="141" y="146" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">[</tspan></text><text x="165" y="146" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#3a2a6a">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan></text><g clip-path="url(#k2)"><text x="165" y="146" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="url(#g)">██████████████████████████████</tspan></text></g><text x="435" y="146" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">]</tspan></text><text x="459" y="146" font-size="15" textLength="27" lengthAdjust="spacing" xml:space="preserve" opacity="0"><tspan fill="#FCEE0A">65%</tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.36;0.92;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="30" y="178" font-size="15" textLength="108" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#d6e4ff">Linux/Kernel</tspan></text><text x="141" y="178" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">[</tspan></text><text x="165" y="178" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#3a2a6a">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan></text><g clip-path="url(#k3)"><text x="165" y="178" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="url(#g)">██████████████████████████████</tspan></text></g><text x="435" y="178" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">]</tspan></text><text x="459" y="178" font-size="15" textLength="27" lengthAdjust="spacing" xml:space="preserve" opacity="0"><tspan fill="#FCEE0A">75%</tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.41;0.92;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="30" y="210" font-size="15" textLength="108" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#d6e4ff">Firmware    </tspan></text><text x="141" y="210" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">[</tspan></text><text x="165" y="210" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#3a2a6a">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan></text><g clip-path="url(#k4)"><text x="165" y="210" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="url(#g)">██████████████████████████████</tspan></text></g><text x="435" y="210" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">]</tspan></text><text x="459" y="210" font-size="15" textLength="27" lengthAdjust="spacing" xml:space="preserve" opacity="0"><tspan fill="#FCEE0A">70%</tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.46;0.92;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="30" y="242" font-size="15" textLength="108" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#d6e4ff">Bash        </tspan></text><text x="141" y="242" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">[</tspan></text><text x="165" y="242" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#3a2a6a">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan></text><g clip-path="url(#k5)"><text x="165" y="242" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="url(#g)">██████████████████████████████</tspan></text></g><text x="435" y="242" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">]</tspan></text><text x="459" y="242" font-size="15" textLength="27" lengthAdjust="spacing" xml:space="preserve" opacity="0"><tspan fill="#FCEE0A">75%</tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.51;0.92;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text><text x="30" y="274" font-size="15" textLength="108" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#d6e4ff">Debugging   </tspan></text><text x="141" y="274" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">[</tspan></text><text x="165" y="274" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#3a2a6a">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</tspan></text><g clip-path="url(#k6)"><text x="165" y="274" font-size="15" textLength="270" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="url(#g)">██████████████████████████████</tspan></text></g><text x="435" y="274" font-size="15" textLength="9" lengthAdjust="spacing" xml:space="preserve" ><tspan fill="#00F0FF">]</tspan></text><text x="459" y="274" font-size="15" textLength="27" lengthAdjust="spacing" xml:space="preserve" opacity="0"><tspan fill="#FCEE0A">85%</tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.56;0.92;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></text>
-<text x="30" y="286" font-size="12" fill="#6f6aa8" xml:space="preserve">$ ./load_skills --all   <tspan fill="#00FF41">OK</tspan><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+  <defs>
+    <style><![CDATA[
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(6px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes fillBar {
+        from { width: 0; }
+        to { width: 100%; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; }
+      }
+
+      /* Colors matching terminal-card.svg */
+      .bg { fill: #0a0e14; }
+      .panel { fill: #0d1320; stroke: #1f2b3d; stroke-width: 1; }
+      .head { fill: #0a1018; stroke: #1f2b3d; stroke-width: 1; }
+      .title { fill: #5a6b82; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 11px; letter-spacing: 2px; }
+      
+      /* Typography */
+      .skill-label { fill: #c9d4e3; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+      .bracket { fill: #5a6b82; font-family: 'JetBrains Mono', monospace; font-size: 14px; }
+      .footer { fill: #5a6b82; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 2px; }
+      .cursor { fill: #00ff9c; animation: blink 1.2s steps(2) infinite; }
+      
+      /* Progress Bars */
+      .bar-bg { fill: #0b111b; stroke: #1d2a3d; stroke-width: 1; }
+      .bar-fill { fill: #00ff9c; opacity: 0.8; }
+      .bar-fill-dim { fill: #00ff9c; opacity: 0.3; }
+      
+      /* Staggered Animations */
+      .fade-1 { animation: fadeIn 0.6s ease-out both; }
+      .fade-2 { animation: fadeIn 0.6s ease-out 0.15s both; }
+      .fade-3 { animation: fadeIn 0.6s ease-out 0.3s both; }
+      .fade-4 { animation: fadeIn 0.6s ease-out 0.45s both; }
+      .fade-5 { animation: fadeIn 0.6s ease-out 0.6s both; }
+      .fade-6 { animation: fadeIn 0.6s ease-out 0.75s both; }
+      .fade-7 { animation: fadeIn 0.6s ease-out 0.9s both; }
+      
+      /* Bar Animation delays */
+      .anim-bar { animation: fillBar 1.5s cubic-bezier(0.2, 0.9, 0.3, 1) both; transform-origin: left; }
+    ]]></style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="760" height="420" rx="10"/>
+  <rect class="panel" x="1" y="1" width="758" height="418" rx="10"/>
+
+  <!-- header -->
+  <rect class="head" x="1" y="1" width="758" height="42" rx="10"/>
+  <rect class="head" x="1" y="20" width="758" height="23"/>
+  <circle cx="24" cy="22" r="5" fill="#ff5f57"/>
+  <circle cx="42" cy="22" r="5" fill="#febc2e"/>
+  <circle cx="60" cy="22" r="5" fill="#28c840"/>
+  <text class="title" x="740" y="26" text-anchor="end">SKILL_MATRIX // ALAN.M.JOSE</text>
+
+  <!-- Skill Rows -->
+  <!-- C -->
+  <g class="fade-1">
+    <text class="skill-label" x="40" y="86">C</text>
+    <text class="bracket" x="140" y="86">[</text>
+    <rect class="bar-bg" x="155" y="76" width="300" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="76" width="285" height="10" rx="2"/>
+    <text class="bracket" x="465" y="86">]</text>
+  </g>
+
+  <!-- C++ -->
+  <g class="fade-2">
+    <text class="skill-label" x="40" y="120">C++</text>
+    <text class="bracket" x="140" y="120">[</text>
+    <rect class="bar-bg" x="155" y="110" width="300" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="110" width="270" height="10" rx="2"/>
+    <text class="bracket" x="465" y="120">]</text>
+  </g>
+
+  <!-- Assembly -->
+  <g class="fade-3">
+    <text class="skill-label" x="40" y="154">Assembly</text>
+    <text class="bracket" x="140" y="154">[</text>
+    <rect class="bar-bg" x="155" y="144" width="300" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="144" width="210" height="10" rx="2"/>
+    <text class="bracket" x="465" y="154">]</text>
+  </g>
+
+  <!-- Linux/Kernel -->
+  <g class="fade-4">
+    <text class="skill-label" x="40" y="188">Linux/Kernel</text>
+    <text class="bracket" x="140" y="188">[</text>
+    <rect class="bar-bg" x="155" y="178" width="300" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="178" width="240" height="10" rx="2"/>
+    <text class="bracket" x="465" y="188">]</text>
+  </g>
+
+  <!-- Firmware -->
+  <g class="fade-5">
+    <text class="skill-label" x="40" y="222">Firmware</text>
+    <text class="bracket" x="140" y="222">[</text>
+    <rect class="bar-bg" x="155" y="212" width="300" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="212" width="225" height="10" rx="2"/>
+    <text class="bracket" x="465" y="222">]</text>
+  </g>
+
+  <!-- Bash -->
+  <g class="fade-6">
+    <text class="skill-label" x="40" y="256">Bash</text>
+    <text class="bracket" x="140" y="256">[</text>
+    <rect class="bar-bg" x="155" y="246" width="300" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="246" width="255" height="10" rx="2"/>
+    <text class="bracket" x="465" y="256">]</text>
+  </g>
+
+  <!-- Debugging -->
+  <g class="fade-7">
+    <text class="skill-label" x="40" y="290">Debugging</text>
+    <text class="bracket" x="140" y="290">[</text>
+    <rect class="bar-bg" x="155" y="280" width="300" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="280" width="290" height="10" rx="2"/>
+    <text class="bracket" x="465" y="290">]</text>
+  </g>
+
+  <!-- Footer -->
+  <line x1="40" y1="350" x2="720" y2="350" stroke="#1a2436" stroke-dasharray="4 4"/>
+  
+  <text class="footer" x="40" y="380">$ ./load_skills --all</text>
+  <rect class="cursor" x="190" y="370" width="8" height="14"/>
+  <text class="footer" x="720" y="380" text-anchor="end">OK // 0x00</text>
+
 </svg>
