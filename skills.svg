@@ -10,41 +10,40 @@
         to { opacity: 1; transform: translateY(0); }
       }
       @keyframes fillBar {
-        from { width: 0; }
-        to { width: 100%; }
+        from { transform: scaleX(0); }
+        to { transform: scaleX(1); }
       }
       @media (prefers-reduced-motion: reduce) {
         * { animation: none !important; }
       }
 
-      /* Colors matching terminal-card.svg */
       .bg { fill: #0a0e14; }
       .panel { fill: #0d1320; stroke: #1f2b3d; stroke-width: 1; }
       .head { fill: #0a1018; stroke: #1f2b3d; stroke-width: 1; }
       .title { fill: #5a6b82; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 11px; letter-spacing: 2px; }
       
-      /* Typography */
       .skill-label { fill: #c9d4e3; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
       .bracket { fill: #5a6b82; font-family: 'JetBrains Mono', monospace; font-size: 14px; }
       .footer { fill: #5a6b82; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 2px; }
       .cursor { fill: #00ff9c; animation: blink 1.2s steps(2) infinite; }
       
-      /* Progress Bars */
       .bar-bg { fill: #0b111b; stroke: #1d2a3d; stroke-width: 1; }
-      .bar-fill { fill: #00ff9c; opacity: 0.8; }
-      .bar-fill-dim { fill: #00ff9c; opacity: 0.3; }
+      .bar-fill { fill: #00ff9c; opacity: 0.85; }
       
-      /* Staggered Animations */
+      /* Staggered Fade in */
       .fade-1 { animation: fadeIn 0.6s ease-out both; }
-      .fade-2 { animation: fadeIn 0.6s ease-out 0.15s both; }
-      .fade-3 { animation: fadeIn 0.6s ease-out 0.3s both; }
-      .fade-4 { animation: fadeIn 0.6s ease-out 0.45s both; }
-      .fade-5 { animation: fadeIn 0.6s ease-out 0.6s both; }
-      .fade-6 { animation: fadeIn 0.6s ease-out 0.75s both; }
-      .fade-7 { animation: fadeIn 0.6s ease-out 0.9s both; }
-      
-      /* Bar Animation delays */
-      .anim-bar { animation: fillBar 1.5s cubic-bezier(0.2, 0.9, 0.3, 1) both; transform-origin: left; }
+      .fade-2 { animation: fadeIn 0.6s ease-out 0.1s both; }
+      .fade-3 { animation: fadeIn 0.6s ease-out 0.2s both; }
+      .fade-4 { animation: fadeIn 0.6s ease-out 0.3s both; }
+      .fade-5 { animation: fadeIn 0.6s ease-out 0.4s both; }
+      .fade-6 { animation: fadeIn 0.6s ease-out 0.5s both; }
+      .fade-7 { animation: fadeIn 0.6s ease-out 0.6s both; }
+
+      /* Progress Bar Animation (Using scaleX to prevent glitching) */
+      .anim-bar { 
+        animation: fillBar 1.5s cubic-bezier(0.2, 0.9, 0.3, 1) both; 
+        transform-origin: left center;
+      }
     ]]></style>
   </defs>
 
@@ -60,75 +59,73 @@
   <circle cx="60" cy="22" r="5" fill="#28c840"/>
   <text class="title" x="740" y="26" text-anchor="end">SKILL_MATRIX // ALAN.M.JOSE</text>
 
-  <!-- Skill Rows -->
-  <!-- C -->
+  <!-- C (95%) -->
   <g class="fade-1">
     <text class="skill-label" x="40" y="86">C</text>
     <text class="bracket" x="140" y="86">[</text>
     <rect class="bar-bg" x="155" y="76" width="300" height="10" rx="2"/>
-    <rect class="bar-fill anim-bar" x="155" y="76" width="285" height="10" rx="2"/>
+    <!-- We use width 300, then scaleX(0.95) to make it fill 95% -->
+    <rect class="bar-fill anim-bar" x="155" y="76" width="300" height="10" rx="2" style="animation-delay: 0.1s; transform: scaleX(0.95);"/>
     <text class="bracket" x="465" y="86">]</text>
   </g>
 
-  <!-- C++ -->
+  <!-- C++ (90%) -->
   <g class="fade-2">
     <text class="skill-label" x="40" y="120">C++</text>
     <text class="bracket" x="140" y="120">[</text>
     <rect class="bar-bg" x="155" y="110" width="300" height="10" rx="2"/>
-    <rect class="bar-fill anim-bar" x="155" y="110" width="270" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="110" width="300" height="10" rx="2" style="animation-delay: 0.2s; transform: scaleX(0.90);"/>
     <text class="bracket" x="465" y="120">]</text>
   </g>
 
-  <!-- Assembly -->
+  <!-- Assembly (75%) -->
   <g class="fade-3">
     <text class="skill-label" x="40" y="154">Assembly</text>
     <text class="bracket" x="140" y="154">[</text>
     <rect class="bar-bg" x="155" y="144" width="300" height="10" rx="2"/>
-    <rect class="bar-fill anim-bar" x="155" y="144" width="210" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="144" width="300" height="10" rx="2" style="animation-delay: 0.3s; transform: scaleX(0.75);"/>
     <text class="bracket" x="465" y="154">]</text>
   </g>
 
-  <!-- Linux/Kernel -->
+  <!-- Linux/Kernel (85%) -->
   <g class="fade-4">
     <text class="skill-label" x="40" y="188">Linux/Kernel</text>
     <text class="bracket" x="140" y="188">[</text>
     <rect class="bar-bg" x="155" y="178" width="300" height="10" rx="2"/>
-    <rect class="bar-fill anim-bar" x="155" y="178" width="240" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="178" width="300" height="10" rx="2" style="animation-delay: 0.4s; transform: scaleX(0.85);"/>
     <text class="bracket" x="465" y="188">]</text>
   </g>
 
-  <!-- Firmware -->
+  <!-- Firmware (80%) -->
   <g class="fade-5">
     <text class="skill-label" x="40" y="222">Firmware</text>
     <text class="bracket" x="140" y="222">[</text>
     <rect class="bar-bg" x="155" y="212" width="300" height="10" rx="2"/>
-    <rect class="bar-fill anim-bar" x="155" y="212" width="225" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="212" width="300" height="10" rx="2" style="animation-delay: 0.5s; transform: scaleX(0.80);"/>
     <text class="bracket" x="465" y="222">]</text>
   </g>
 
-  <!-- Bash -->
+  <!-- Bash (85%) -->
   <g class="fade-6">
     <text class="skill-label" x="40" y="256">Bash</text>
     <text class="bracket" x="140" y="256">[</text>
     <rect class="bar-bg" x="155" y="246" width="300" height="10" rx="2"/>
-    <rect class="bar-fill anim-bar" x="155" y="246" width="255" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="246" width="300" height="10" rx="2" style="animation-delay: 0.6s; transform: scaleX(0.85);"/>
     <text class="bracket" x="465" y="256">]</text>
   </g>
 
-  <!-- Debugging -->
+  <!-- Debugging (95%) -->
   <g class="fade-7">
     <text class="skill-label" x="40" y="290">Debugging</text>
     <text class="bracket" x="140" y="290">[</text>
     <rect class="bar-bg" x="155" y="280" width="300" height="10" rx="2"/>
-    <rect class="bar-fill anim-bar" x="155" y="280" width="290" height="10" rx="2"/>
+    <rect class="bar-fill anim-bar" x="155" y="280" width="300" height="10" rx="2" style="animation-delay: 0.7s; transform: scaleX(0.95);"/>
     <text class="bracket" x="465" y="290">]</text>
   </g>
 
   <!-- Footer -->
   <line x1="40" y1="350" x2="720" y2="350" stroke="#1a2436" stroke-dasharray="4 4"/>
-  
   <text class="footer" x="40" y="380">$ ./load_skills --all</text>
   <rect class="cursor" x="190" y="370" width="8" height="14"/>
   <text class="footer" x="720" y="380" text-anchor="end">OK // 0x00</text>
-
 </svg>
