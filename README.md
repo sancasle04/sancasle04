@@ -111,8 +111,7 @@
 │ 64 bytes from inbox: icmp_seq=1 ttl=64 time=0.042 ms         │
 │                                                              │
 │ LINKEDIN : linkedin.com/in/alanmjose                         │
-│ GMAIL    : alanmjose782@gmail.com                            │
-│ GITHUB   : github.com/sancasle04                             │
+│ GMAIL    : alanmjose782@gmail.com                            │                           │
 │                                                              │
 │ >> CHANNEL OPEN. TRANSMIT WHEN READY.                        │
 └──────────────────────────────────────────────────────────────┘
@@ -122,7 +121,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-alanmjose-black?style=flat-square&logo=linkedin&logoColor=white&labelColor=black&color=00FF41)](https://www.linkedin.com/in/alanmjose/)
 [![Gmail](https://img.shields.io/badge/GMAIL-alanmjose782-black?style=flat-square&logo=gmail&logoColor=white&labelColor=black&color=00FF41)](mailto:alanmjose782@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-sancasle04-black?style=flat-square&logo=github&logoColor=white&labelColor=black&color=00FF41)](https://github.com/sancasle04)
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
